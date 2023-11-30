@@ -4,7 +4,7 @@ import time
 import math
 import random
 
-key               = 'E7799FE7DDAA7246995F8D4C26F0A994'   
+key               = '########'   
   
 userVanityName    = 'drewk92'
 steamId           = resolveVanity(key, userVanityName)
